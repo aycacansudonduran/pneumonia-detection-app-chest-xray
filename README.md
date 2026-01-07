@@ -24,11 +24,11 @@ pneumonia-app-2/
 │   variables/
 │   saved_model.pb
 │
-├─notebooks/                   # (İsteğe bağlı, Colab dosyaları için)
+├─notebooks/                  
 │   chest_xray_eda.ipynb
 │   pneumonia_densenet_model.ipynb
 │
-└─images/                      # (İsteğe bağlı, grafik ve ekran görüntüleri için)
+└─images/                     
     app_screenshot.png
     confusion_matrix.png
     roc_curve.png
